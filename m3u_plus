@@ -699,46 +699,4 @@ http://fall.defence4you.co.uk:80/KPxJdMdwEr/rNHjcCV7Nf/81863
 #EXTINF:-1 tvg-id="" tvg-name="UK | WILLIAM HILL {HORSE RACING JUMPS}" tvg-logo="http://mikeeaster.xyz/logos/UK%20Logos/William%20Hill%20TV.jpeg" group-title="UK RACING/BETTING",UK | WILLIAM HILL {HORSE RACING JUMPS}
 http://fall.defence4you.co.uk:80/KPxJdMdwEr/rNHjcCV7Nf/81862
 #EXTINF:-1 tvg-id="" tvg-name="UK | WILLIAM HILL {VIRTUAL FOOTBALL}" tvg-logo="http://mikeeaster.xyz/logos/UK%20Logos/William%20Hill%20TV.jpeg" group-title="UK RACING/BETTING",UK | WILLIAM HILL {VIRTUAL FOOTBALL}
-#EXTM3U
-#EXTINF:-1 tvg-id="0.L" tvg-name="ELITE EPL: NBC Gold Replay FHD 0" tvg-logo="http://picon.domin8.tv/NBCGOLD.png" group-title="EPL SEASON TICKET",ELITE EPL: NBC Gold Replay FHD 0
-http://djdaves-epg.domin8.host:80/live/EMBY-SEASON-TICKET/EMBY-SEASON-TICKET/30063.m3u8
-#EXTINF:-1 tvg-id="1.L" tvg-name="ELITE EPL: NBC Gold Replay FHD 1" tvg-logo="http://picon.domin8.tv/NBCGOLD.png" group-title="EPL SEASON TICKET",ELITE EPL: NBC Gold Replay FHD 1
-http://djdaves-epg.domin8.host:80/live/EMBY-SEASON-TICKET/EMBY-SEASON-TICKET/30062.m3u8
-#EXTINF:-1 tvg-id="2.L" tvg-name="ELITE EPL: NBC Gold Replay FHD 2" tvg-logo="http://picon.domin8.tv/NBCGOLD.png" group-title="EPL SEASON TICKET",ELITE EPL: NBC Gold Replay FHD 2
-http://djdaves-epg.domin8.host:80/live/EMBY-SEASON-TICKET/EMBY-SEASON-TICKET/30061.m3u8
-#EXTINF:-1 tvg-id="3.L" tvg-name="ELITE EPL: NBC Gold Replay FHD 3" tvg-logo="http://picon.domin8.tv/NBCGOLD.png" group-title="EPL SEASON TICKET",ELITE EPL: NBC Gold Replay FHD 3
-http://djdaves-epg.domin8.host:80/live/EMBY-SEASON-TICKET/EMBY-SEASON-TICKET/30060.m3u8
-#EXTINF:-1 tvg-id="4.L" tvg-name="ELITE EPL: NBC Gold Replay FHD 4" tvg-logo="http://picon.domin8.tv/NBCGOLD.png" group-title="EPL SEASON TICKET",ELITE EPL: NBC Gold Replay FHD 4
-http://djdaves-epg.domin8.host:80/live/EMBY-SEASON-TICKET/EMBY-SEASON-TICKET/30059.m3u8
-#EXTINF:-1 tvg-id="5.L" tvg-name="ELITE EPL: NBC Gold Replay FHD 5" tvg-logo="http://picon.domin8.tv/NBCGOLD.png" group-title="EPL SEASON TICKET",ELITE EPL: NBC Gold Replay FHD 5
-http://djdaves-epg.domin8.host:80/live/EMBY-SEASON-TICKET/EMBY-SEASON-TICKET/30058.m3u8
-#EXTINF:-1 tvg-id="6.L" tvg-name="ELITE EPL: NBC Gold Replay FHD 6" tvg-logo="http://picon.domin8.tv/NBCGOLD.png" group-title="EPL SEASON TICKET",ELITE EPL: NBC Gold Replay FHD 6
-http://djdaves-epg.domin8.host:80/live/EMBY-SEASON-TICKET/EMBY-SEASON-TICKET/30057.m3u8
-#EXTINF:-1 tvg-id="7.L" tvg-name="ELITE EPL: NBC Gold Replay FHD 7" tvg-logo="http://picon.domin8.tv/NBCGOLD.png" group-title="EPL SEASON TICKET",ELITE EPL: NBC Gold Replay FHD 7
-http://djdaves-epg.domin8.host:80/live/EMBY-SEASON-TICKET/EMBY-SEASON-TICKET/30056.m3u8
-#EXTINF:-1 tvg-id="8.L" tvg-name="ELITE EPL: NBC Gold Replay FHD 8" tvg-logo="http://picon.domin8.tv/NBCGOLD.png" group-title="EPL SEASON TICKET",ELITE EPL: NBC Gold Replay FHD 8
-http://djdaves-epg.domin8.host:80/live/EMBY-SEASON-TICKET/EMBY-SEASON-TICKET/30055.m3u8
-#EXTINF:-1 tvg-id="9.L" tvg-name="ELITE EPL: NBC Gold Replay FHD 9" tvg-logo="http://picon.domin8.tv/NBCGOLD.png" group-title="EPL SEASON TICKET",ELITE EPL: NBC Gold Replay FHD 9
-http://djdaves-epg.domin8.host:80/live/EMBY-SEASON-TICKET/EMBY-SEASON-TICKET/30054.m3u8
-#EXTINF:-1 tvg-id="10.L" tvg-name="ELITE EPL: NBC Gold Replay FHD 10" tvg-logo="http://picon.domin8.tv/NBCGOLD.png" group-title="EPL SEASON TICKET",ELITE EPL: NBC Gold Replay FHD 10
-http://djdaves-epg.domin8.host:80/live/EMBY-SEASON-TICKET/EMBY-SEASON-TICKET/30053.m3u8
-#EXTINF:-1 tvg-id="11.L" tvg-name="ELITE EPL: NBC Gold Replay FHD 11" tvg-logo="http://picon.domin8.tv/NBCGOLD.png" group-title="EPL SEASON TICKET",ELITE EPL: NBC Gold Replay FHD 11
-http://djdaves-epg.domin8.host:80/live/EMBY-SEASON-TICKET/EMBY-SEASON-TICKET/30052.m3u8
-#EXTINF:-1 tvg-id="12.L" tvg-name="ELITE EPL: NBC Gold Replay FHD 12" tvg-logo="http://picon.domin8.tv/NBCGOLD.png" group-title="EPL SEASON TICKET",ELITE EPL: NBC Gold Replay FHD 12
-http://djdaves-epg.domin8.host:80/live/EMBY-SEASON-TICKET/EMBY-SEASON-TICKET/30051.m3u8
-#EXTINF:-1 tvg-id="13.L" tvg-name="ELITE EPL: NBC Gold Replay FHD 13" tvg-logo="http://picon.domin8.tv/NBCGOLD.png" group-title="EPL SEASON TICKET",ELITE EPL: NBC Gold Replay FHD 13
-http://djdaves-epg.domin8.host:80/live/EMBY-SEASON-TICKET/EMBY-SEASON-TICKET/30050.m3u8
-#EXTINF:-1 tvg-id="14.L" tvg-name="ELITE EPL: NBC Gold Replay FHD 14" tvg-logo="http://picon.domin8.tv/NBCGOLD.png" group-title="EPL SEASON TICKET",ELITE EPL: NBC Gold Replay FHD 14
-http://djdaves-epg.domin8.host:80/live/EMBY-SEASON-TICKET/EMBY-SEASON-TICKET/30049.m3u8
-#EXTINF:-1 tvg-id="15.L" tvg-name="ELITE EPL: NBC Gold FHD 15" tvg-logo="http://picon.domin8.tv/NBCGOLD.png" group-title="LIVE EVENTS",ELITE EPL: NBC Gold FHD 15
-http://djdaves-epg.domin8.host:80/live/EMBY-SEASON-TICKET/EMBY-SEASON-TICKET/30041.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ELITE EPL: NBC Gold FHD 16" tvg-logo="http://picon.domin8.tv/NBCGOLD.png" group-title="LIVE EVENTS",ELITE EPL: NBC Gold FHD 16
-http://djdaves-epg.domin8.host:80/live/EMBY-SEASON-TICKET/EMBY-SEASON-TICKET/30040.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ELITE EPL: NBC Gold FHD 17" tvg-logo="http://picon.domin8.tv/NBCGOLD.png" group-title="LIVE EVENTS",ELITE EPL: NBC Gold FHD 17
-http://djdaves-epg.domin8.host:80/live/EMBY-SEASON-TICKET/EMBY-SEASON-TICKET/30039.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ELITE EPL: NBC Gold FHD 18" tvg-logo="http://picon.domin8.tv/NBCGOLD.png" group-title="LIVE EVENTS",ELITE EPL: NBC Gold FHD 18
-http://djdaves-epg.domin8.host:80/live/EMBY-SEASON-TICKET/EMBY-SEASON-TICKET/30038.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PPV BOXING 1" tvg-logo="" group-title="LIVE EVENTS",PPV BOXING 1
-http://xc1.domin8.tv:88/PPV6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ELITE EPL: NBC Gold FHD 20" tvg-logo="http://picon.domin8.tv/NBCGOLD.png" group-title="",ELITE EPL: NBC Gold FHD 20
-http://djdaves-epg.domin8.host:80/live/EMBY-SEASON-TICKET/EMBY-SEASON-TICKET/30104.m3u8
+
