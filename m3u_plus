@@ -265,25 +265,6 @@ http://wagnet.club:25461/ste/ward/60
 http://wagnet.club:25461/ste/ward/59
 #EXTINF:-1 tvg-id="" tvg-name="MTV LIVE FHD" tvg-logo="http://targetcreates.com/reloaded-logos/MTV%20Live.png" group-title="UK Music",MTV LIVE FHD
 http://wagnet.club:25461/ste/ward/58
-#EXTINF:-1 tvg-id="" tvg-name="epl 1" tvg-logo="" group-title="UK PREMIUM EPL",epl 1
-http://wagnet.club:25461/ste/ward/128
-#EXTINF:-1 tvg-id="" tvg-name="epl 2" tvg-logo="" group-title="UK PREMIUM EPL",epl 2
-http://wagnet.club:25461/ste/ward/129
-#EXTINF:-1 tvg-id="" tvg-name="epl 3" tvg-logo="" group-title="UK PREMIUM EPL",epl 3
-http://wagnet.club:25461/ste/ward/130
-#EXTINF:-1 tvg-id="" tvg-name="epl 4" tvg-logo="" group-title="UK PREMIUM EPL",epl 4
-http://wagnet.club:25461/ste/ward/131
-#EXTINF:-1 tvg-id="" tvg-name="epl 5" tvg-logo="" group-title="UK PREMIUM EPL",epl 5
-http://wagnet.club:25461/ste/ward/132
-#EXTINF:-1 tvg-id="" tvg-name="epl 6" tvg-logo="" group-title="UK PREMIUM EPL",epl 6
-http://wagnet.club:25461/ste/ward/133
-#EXTINF:-1 tvg-id="" tvg-name="epl 7" tvg-logo="" group-title="UK PREMIUM EPL",epl 7
-http://wagnet.club:25461/ste/ward/134
-#EXTINF:-1 tvg-id="" tvg-name="epl 8" tvg-logo="" group-title="UK PREMIUM EPL",epl 8
-http://wagnet.club:25461/ste/ward/135
-#EXTINF:-1 tvg-id="" tvg-name="epl 9" tvg-logo="" group-title="UK PREMIUM EPL",epl 9
-http://wagnet.club:25461/ste/ward/136
-#EXTINF:-1 tvg-id="" tvg-name="epl 10" tvg-logo="" group-title="UK PREMIUM EPL",epl 10
 http://wagnet.club:25461/ste/ward/137
 #EXTINF:-1 tvg-id="" tvg-name="PPV 1" tvg-logo="" group-title="UK PPV/LIVE EVENTS",PPV 1
 http://wagnet.club:25461/ste/ward/175
@@ -361,30 +342,6 @@ http://wagnet.club:25461/ste/ward/170
 http://wagnet.club:25461/ste/ward/169
 #EXTINF:-1 tvg-id="" tvg-name="Test" tvg-logo="http://targetcreates.com/reloaded-logos/MUTV.png" group-title="2019 Movies",Test
 http://wagnet.club:25461/movie/ste/ward/191.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supersport 1" tvg-logo="" group-title="Supersport EPL",Supersport 1
-http://wagnet.club:25461/ste/ward/194
-#EXTINF:-1 tvg-id="" tvg-name="Supersport 2" tvg-logo="" group-title="Supersport EPL",Supersport 2
-http://wagnet.club:25461/ste/ward/195
-#EXTINF:-1 tvg-id="" tvg-name="Supersport 3" tvg-logo="" group-title="Supersport EPL",Supersport 3
-http://wagnet.club:25461/ste/ward/196
-#EXTINF:-1 tvg-id="" tvg-name="Supersport 4" tvg-logo="" group-title="Supersport EPL",Supersport 4
-http://wagnet.club:25461/ste/ward/197
-#EXTINF:-1 tvg-id="" tvg-name="Supersport 5" tvg-logo="" group-title="Supersport EPL",Supersport 5
-http://wagnet.club:25461/ste/ward/198
-#EXTINF:-1 tvg-id="" tvg-name="Supersport 6" tvg-logo="" group-title="Supersport EPL",Supersport 6
-http://wagnet.club:25461/ste/ward/199
-#EXTINF:-1 tvg-id="" tvg-name="Supersport 7" tvg-logo="" group-title="Supersport EPL",Supersport 7
-http://wagnet.club:25461/ste/ward/200
-#EXTINF:-1 tvg-id="" tvg-name="Supersport 8" tvg-logo="" group-title="Supersport EPL",Supersport 8
-http://wagnet.club:25461/ste/ward/201
-#EXTINF:-1 tvg-id="" tvg-name="Supersport 9" tvg-logo="" group-title="Supersport EPL",Supersport 9
-http://wagnet.club:25461/ste/ward/202
-#EXTINF:-1 tvg-id="" tvg-name="Supersport 10" tvg-logo="" group-title="Supersport EPL",Supersport 10
-http://wagnet.club:25461/ste/ward/203
-#EXTINF:-1 tvg-id="" tvg-name="Supersport 11" tvg-logo="" group-title="Supersport EPL",Supersport 11
-http://wagnet.club:25461/ste/ward/204
-#EXTINF:-1 tvg-id="" tvg-name="Supersport 12" tvg-logo="" group-title="Supersport EPL",Supersport 12
-http://wagnet.club:25461/ste/ward/205
 #EXTINF:-1 tvg-id="" tvg-name="Rush Sport EPL" tvg-logo="" group-title="Rush Sports",Rush Sport EPL
 http://wagnet.club:25461/ste/ward/208
 #EXTINF:-1 tvg-id="" tvg-name="Rush Sport 1" tvg-logo="" group-title="Rush Sports",Rush Sport 1
